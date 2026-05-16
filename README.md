@@ -2,7 +2,7 @@
 
 🚀 Desenvolvedor Backend em formação, focado em transformar teoria em código funcional. Atualmente aprofundando meus estudos na construção de sistemas corporativos com **Java** e explorando as melhores ferramentas para otimizar o desenvolvimento e estruturar bancos de dados de forma consistente.
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-silva-34b380301)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoa-silva)
 
 ---
 ### 🤖 Linguagens e Tecnologias
