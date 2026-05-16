@@ -1,7 +1,8 @@
 # Olá! eu sou Thiago Silva
 
+🚀 Desenvolvedor Backend em formação, focado em transformar teoria em código funcional. Atualmente aprofundando meus estudos na construção de sistemas corporativos com **Java** e explorando as melhores ferramentas para otimizar o desenvolvimento e estruturar bancos de dados de forma consistente.
+
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-silva-34b380301)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/t_silvask8/)
 
 ---
 ### 🤖 Linguagens e Tecnologias
@@ -100,11 +101,11 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=ThgShikifujin&show_icons=true&theme=radical&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=ThiagoSilvaDev99&show_icons=true&theme=radical&include_all_commits=true"
 />
 <img
     align="left" 
     alt="GitHub Stats" 
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThgShikifujin&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSilvaDev99&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
