@@ -45,15 +45,6 @@ Gosto de transformar teoria em projetos práticos, explorando boas práticas de 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
 />
 
-<img 
-    align="left" 
-     alt="Python"
-    title="Python" 
-    width="40px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
 <img
     align="left" 
      alt="PostegreSQL"
@@ -70,6 +61,24 @@ Gosto de transformar teoria em projetos práticos, explorando boas práticas de 
     width="40px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+
+<img
+    align="left" 
+     alt="Postman"
+    title="Postman" 
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+
+<img 
+    align="left" 
+     alt="Python"
+    title="Python" 
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 
